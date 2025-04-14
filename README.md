@@ -26,7 +26,9 @@ Features
 👉🏻 Search Functionality: Search for specific job roles or course categories.
 
 
+
 🛠️ Technologies Used
+
 
 **Frontend:**
 
@@ -41,6 +43,8 @@ _JavaScript_: For interactivity and dynamic content.
 _PHP_: For server-side scripting to handle requests and manage user data.
 
 _MySQL_: For database management to store user profiles, preferences, and job/course details.
+
+
 
 
 **SET UP!**
@@ -66,6 +70,8 @@ Update the database connection settings in config.php with your local database c
 Launch Apache and MySQL services on your local server environment.
 
 Open the project in your browser by navigating to http://localhost/opportunity_alerts/index.php
+
+
 
 
 **Usage**
