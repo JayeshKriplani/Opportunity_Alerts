@@ -69,7 +69,7 @@ Update the database connection settings in config.php with your local database c
 
 Launch Apache and MySQL services on your local server environment.
 
-Open the project in your browser by navigating to http://localhost/opportunity_alerts/index.php
+Open the project in your browser 
 
 
 
